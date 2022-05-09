@@ -4,6 +4,6 @@ Per funzionare si devono creare nella stessa directory del file `.ipynb` o `.py`
 -  `fit.csv` vuoto,
 -  `corr.csv` vuoto,
 -  `dati.csv` con tre colonne, rispettivamente:
-  - - xdata,
-  - - ydata,
-  - - yerr.
+  - xdata,
+  - ydata,
+  - yerr.
