@@ -1,2 +1,1 @@
-# Repository di file per fare fit statistici con output in <img src="https://render.githubusercontent.com/render/math?math=\tex">
-IPYNB Notebook for a linear fit with Latex output.
+# Repository di file per fare fit statistici con output in LaTeX
