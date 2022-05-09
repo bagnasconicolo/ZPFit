@@ -7,3 +7,5 @@ Per funzionare si devono creare nella stessa directory del file `.ipynb` o `.py`
   * xdata,
   * ydata,
   * yerr.
+
+Nella cartella  `/jupyter/` sono già disponibili i tre  `.csv` vuoti.
