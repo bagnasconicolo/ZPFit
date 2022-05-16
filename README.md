@@ -1,5 +1,5 @@
 # Repository di file per fare fit statistici con output in LaTeX
-N. Bagnasco
+Diritto di autore - N. Bagnasco [Email me!](mailto:nicolo.bagnasco@edu.unito.it)
 
 
 Per funzionare si devono creare nella stessa directory del file `.ipynb` o `.py` tre file  `.csv`:
