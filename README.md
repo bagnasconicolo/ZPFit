@@ -15,3 +15,11 @@ Nella cartella  `/jupyter/` sono già disponibili i tre  `.csv` vuoti.
 
 Nota: 
 Parte del codice è stata presa dai notebook utilizzati dai professori R. Bonino e M. Bertaina per il corso di Esperimentazioni 1 all'Università di Torino.
+
+## Versione 2 aggiunta!
+
+changelog:
+- Aggiunto blocco per conversione da excel a csv
+- Aggiunti ```display()``` per l'output
+- Migliorato il debug e la formattazione dei dati in output
+- Ora il notebook crea da se' i csv necessari, e se sono già esistenti li svuota prima di iniziare i calcoli.
