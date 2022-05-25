@@ -1,5 +1,5 @@
 ##create array with dataset
-gaussdata=np.array([a,S0,erra,alpha])
+gaussdata=np.array([x,mu,err_x,alpha])
 ##save dataset
 %store gaussdata
 ##run ipynb
