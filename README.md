@@ -1,5 +1,5 @@
 # Repository di file per fare fit statistici con output in LaTeX
-Diritto di autore - N. Bagnasco [Email me!](mailto:nicolo.bagnasco@edu.unito.it)
+Diritto di autore - N. Bagnasco [Email me!](mailto:nicolo.bagnasco@edu.unito.it) , A. Boccuti [Email me!](mailto:aaron.boccuti@edu.unito.it)
 
 
 ## Versione 3-3.1 aggiunta!
