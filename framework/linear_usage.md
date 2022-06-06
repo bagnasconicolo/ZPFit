@@ -24,6 +24,7 @@
 
 6.ylabel
 
+7.title
 
 ### user end code
 ``` 
